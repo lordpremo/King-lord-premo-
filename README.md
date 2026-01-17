@@ -1,4 +1,4 @@
-<h1 align="center"> PREMO BOT </h1>
+<h1 align="center"> LORD PREMO XX BUG BOT </h1>
 <p align="center">  
   
 ***
@@ -11,7 +11,7 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VbBkQRi30LKNq4vrw63F">
     <img alt="Premo Bot Banner" height="300" src="https://telegra.ph/file/a65b31d0822efe8163655.jpg">
-    <h1 align="center">PREMO BOT</h1>
+    <h1 align="center">LORD PREMO XX BUG BOT</h1>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-PREMO BOT is a bot designed to enhance the functionality and preferences of a user's WhatsApp. As well as put an end to the era of scammers. Use reasonably.
+LORD PREMO XX BUG BOT is designed to enhance the functionality and preferences of a user's WhatsApp. As well as put an end to the era of scammers. Use reasonably.
 
 If you clone my repo or use as base bot, don’t forget to give credits. LORD PREMO
 
