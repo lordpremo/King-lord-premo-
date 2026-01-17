@@ -1,14 +1,14 @@
-name: lordpremo
 services:
-  bot:
-    build:
-      type: node
-      path: .
+  - type: web
+    name: lordpremo-bot
+    env: node
+    buildCommand: npm install
     startCommand: npm start
+    repo: https://github.com/lordpremo/King-lord-premo-
     envVars:
       - key: NODE_ENV
         value: production
-      - key: LORD PREMO XX BUG BOT
+      - key: BOT_NAME
         value: "Lord Premo"
       - key: BRAND_THEME
         value: "neon"
