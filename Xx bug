@@ -1,0 +1,9 @@
+module.exports = {
+    sendBug: async (sock, jid, type = "crash") => {
+        try {
+            await sock.sendMessage(jid, { text: `⚠️ Bug sent: ${type}` });
+        } catch (e) {
+            console.log("Bug error:", e);
+        }
+    }
+};
